@@ -1,4 +1,4 @@
-#F! The Ads
+# F! The Ads
 
 ### Submission for Global Game Jam 2024
 ### Try it on [Itch.io](https://sphenicpotato.itch.io/f-the-ads)
